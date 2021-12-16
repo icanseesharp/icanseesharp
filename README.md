@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @icanseesharp
-- 👀 I’m interested in ... Devsecops and site reliability
-- 🌱 I’m currently learning ... infrastructure as code using arm templates and terraform & also learning bits of kubernetes
+- 👋 Hi, I’m Sagar Yerva
+- 👀 I’m interested in ... Devops, microservices, containerization
+- 🌱 I’m currently learning ... kubernetes
 - 📫 How to reach me ... reach me on Linkedin www.linkedin.com/in/sagaryerva 
 
 <!---

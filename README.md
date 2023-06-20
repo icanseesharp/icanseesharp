@@ -1,6 +1,6 @@
-- 👋 Hi, I am Sagar Yerva, I am a seasoned backend developer and Microsoft Azure certified Devops Engineer.
-- 👀 I’m interested in ... Devops, microservices, containerization & container orchestration.
-- 🌱 I’m currently learning ... kubernetes
+- 👋 Hi, I am Sagar, I am a seasoned backend developer, Azure certified Devops Engineer and CKA.
+- 👀 I’m interested in ... microservices, well architected framework, kubernetes.
+- 🌱 I’m currently learning ... Linux  
 - 📫 How to reach me? ... reach me on Linkedin www.linkedin.com/in/sagaryerva 
 
 <!---
